@@ -12,7 +12,7 @@
 _Learn why conflicts happen and how to resolve them._
 
 </header>
-  
+
 
 <footer>
 
